@@ -1,0 +1,8 @@
+# Ignore specific files
+Credit_Card_Fraud_Detection.zip
+Midterm_Project_Report.docx
+requirements.txt
+creditcard.csv
+
+# Ignore the virtual environment directory
+.venv
